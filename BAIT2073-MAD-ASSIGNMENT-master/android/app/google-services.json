@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521319083624",
+    "firebase_url": "https://madassignment-c2881-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "madassignment-c2881",
+    "storage_bucket": "madassignment-c2881.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521319083624:android:09e007ec42eca39f9555dd",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.mad_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521319083624-2mqf6gu78phmd52q1h12trne247e32rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.tarc.mad_assignment",
+            "certificate_hash": "2a7d8da1616fcb7fc028a4bc513dbc7197c6b16f"
+          }
+        },
+        {
+          "client_id": "521319083624-ujsncba5lltv1b0fa7ejm643lsagb1in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevkmjWrXPikKKRGCjDJkzkdU4Rxv_DOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521319083624-ujsncba5lltv1b0fa7ejm643lsagb1in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "521319083624-7d4eq1q39kvbno6gvg6d2o74kv2e57dv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "my.edu.tarc.madAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
